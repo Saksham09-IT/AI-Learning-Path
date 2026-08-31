@@ -3,7 +3,7 @@ import { useState, useRef, useEffect } from "react";
 import { createRoot } from "react-dom/client";
 import "./styles.css";
 
-const API = "https://ai-learning-path-p4hc.onrender.com/";
+const API = "https://ai-learning-path-p4hc.onrender.com";
 
 const STATUS_META = {
   completed: { icon: "✓", label: "Completed", cls: "st-completed" },
