@@ -1,0 +1,350 @@
+[
+  {
+    "id": "python_basics",
+    "title": "Python Fundamentals",
+    "skills": [
+      "Python"
+    ],
+    "tags": [
+      "python",
+      "programming",
+      "beginner"
+    ],
+    "level": "Beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "project": "Python Automation Mini Project"
+  },
+  {
+    "id": "numpy",
+    "title": "NumPy for Data Computing",
+    "skills": [
+      "NumPy"
+    ],
+    "tags": [
+      "python",
+      "numpy",
+      "arrays",
+      "data science"
+    ],
+    "level": "Beginner",
+    "duration_weeks": 2,
+    "prerequisites": [
+      "Python"
+    ],
+    "project": "Data Analysis with NumPy"
+  },
+  {
+    "id": "pandas",
+    "title": "Pandas for Data Analysis",
+    "skills": [
+      "Pandas"
+    ],
+    "tags": [
+      "python",
+      "pandas",
+      "data analysis",
+      "datasets"
+    ],
+    "level": "Beginner",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Python"
+    ],
+    "project": "CSV Data Cleaning Project"
+  },
+  {
+    "id": "statistics",
+    "title": "Statistics for Machine Learning",
+    "skills": [
+      "Statistics"
+    ],
+    "tags": [
+      "statistics",
+      "probability",
+      "math",
+      "machine learning"
+    ],
+    "level": "Intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "project": "Exploratory Statistical Analysis"
+  },
+  {
+    "id": "machine_learning",
+    "title": "Machine Learning Fundamentals",
+    "skills": [
+      "Machine Learning"
+    ],
+    "tags": [
+      "machine learning",
+      "supervised learning",
+      "classification",
+      "regression",
+      "scikit learn"
+    ],
+    "level": "Intermediate",
+    "duration_weeks": 5,
+    "prerequisites": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Statistics"
+    ],
+    "project": "House Price Prediction"
+  },
+  {
+    "id": "deep_learning",
+    "title": "Deep Learning with Neural Networks",
+    "skills": [
+      "Deep Learning"
+    ],
+    "tags": [
+      "deep learning",
+      "neural networks",
+      "tensorflow",
+      "ai"
+    ],
+    "level": "Advanced",
+    "duration_weeks": 5,
+    "prerequisites": [
+      "Python",
+      "Machine Learning"
+    ],
+    "project": "Image Classification Model"
+  },
+  {
+    "id": "html_css",
+    "title": "HTML and CSS Foundations",
+    "skills": [
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "web development",
+      "frontend",
+      "html",
+      "css"
+    ],
+    "level": "Beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "project": "Responsive Portfolio Website"
+  },
+  {
+    "id": "javascript",
+    "title": "JavaScript Fundamentals",
+    "skills": [
+      "JavaScript"
+    ],
+    "tags": [
+      "web development",
+      "javascript",
+      "frontend"
+    ],
+    "level": "Beginner",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "HTML",
+      "CSS"
+    ],
+    "project": "Interactive To-Do Application"
+  },
+  {
+    "id": "react",
+    "title": "React Frontend Development",
+    "skills": [
+      "React"
+    ],
+    "tags": [
+      "react",
+      "frontend",
+      "web development",
+      "javascript"
+    ],
+    "level": "Intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "JavaScript"
+    ],
+    "project": "React Dashboard"
+  },
+  {
+    "id": "node",
+    "title": "Node.js and Express Backend",
+    "skills": [
+      "Node.js",
+      "Express.js"
+    ],
+    "tags": [
+      "node",
+      "express",
+      "backend",
+      "api",
+      "javascript"
+    ],
+    "level": "Intermediate",
+    "duration_weeks": 4,
+    "prerequisites": [
+      "JavaScript"
+    ],
+    "project": "REST API"
+  },
+  {
+    "id": "mongodb",
+    "title": "MongoDB Database Essentials",
+    "skills": [
+      "MongoDB"
+    ],
+    "tags": [
+      "mongodb",
+      "database",
+      "backend",
+      "nosql"
+    ],
+    "level": "Intermediate",
+    "duration_weeks": 2,
+    "prerequisites": [],
+    "project": "User Database API"
+  },
+  {
+    "id": "full_stack_project",
+    "title": "Full Stack Capstone",
+    "skills": [
+      "Full Stack Development"
+    ],
+    "tags": [
+      "full stack",
+      "react",
+      "node",
+      "mongodb",
+      "project"
+    ],
+    "level": "Advanced",
+    "duration_weeks": 5,
+    "prerequisites": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "project": "E-Commerce Platform"
+  },
+  {
+    "id": "sql",
+    "title": "SQL for Data and Analytics",
+    "skills": [
+      "SQL"
+    ],
+    "tags": [
+      "sql",
+      "database",
+      "data analyst",
+      "analytics"
+    ],
+    "level": "Beginner",
+    "duration_weeks": 3,
+    "prerequisites": [],
+    "project": "Sales Data Analysis"
+  },
+  {
+    "id": "data_visualization",
+    "title": "Data Visualization",
+    "skills": [
+      "Data Visualization"
+    ],
+    "tags": [
+      "power bi",
+      "tableau",
+      "visualization",
+      "data analyst"
+    ],
+    "level": "Intermediate",
+    "duration_weeks": 3,
+    "prerequisites": [
+      "Pandas"
+    ],
+    "project": "Business Analytics Dashboard"
+  },
+  {
+  "id": "linux",
+  "title": "Linux Fundamentals",
+  "skills": ["Linux"],
+  "tags": ["linux", "beginner", "cloud"],
+  "level": "Beginner",
+  "duration_weeks": 2,
+  "prerequisites": [],
+  "project": "Linux Server Setup"
+},
+  {
+  "id": "computer_networks",
+  "title": "Computer Networks Fundamentals",
+  "skills": ["Computer Networks"],
+  "tags": ["networking", "cloud", "beginner"],
+  "level": "Beginner",
+  "duration_weeks": 2,
+  "prerequisites": [],
+  "project": "Basic Network Configuration"
+},
+{
+  "id": "cloud_computing",
+  "title": "Cloud Computing Fundamentals",
+  "skills": ["Cloud Computing"],
+  "tags": ["cloud", "beginner"],
+  "level": "Beginner",
+  "duration_weeks": 2,
+  "prerequisites": ["Linux"],
+  "project": "Cloud Infrastructure Design"
+},
+
+{
+  "id": "aws",
+  "title": "AWS Cloud Fundamentals",
+  "skills": ["AWS"],
+  "tags": ["aws", "cloud"],
+  "level": "Intermediate",
+  "duration_weeks": 3,
+  "prerequisites": ["Cloud Computing"],
+  "project": "Deploy a Web Application on AWS"
+},
+{
+  "id": "ec2",
+  "title": "AWS EC2 Fundamentals",
+  "skills": ["EC2"],
+  "tags": ["aws", "ec2", "cloud"],
+  "level": "Intermediate",
+  "duration_weeks": 2,
+  "prerequisites": ["AWS"],
+  "project": "Launch and Configure an EC2 Server"
+},
+{
+  "id": "s3",
+  "title": "AWS S3 Storage",
+  "skills": ["S3"],
+  "tags": ["aws", "s3", "cloud storage"],
+  "level": "Intermediate",
+  "duration_weeks": 1,
+  "prerequisites": ["EC2"],
+  "project": "Build a Cloud Storage Application"
+},
+{
+  "id": "docker",
+  "title": "Docker Fundamentals",
+  "skills": ["Docker"],
+  "tags": ["docker", "containers", "devops"],
+  "level": "Intermediate",
+  "duration_weeks": 2,
+  "prerequisites": ["S3"],
+  "project": "Containerize a Web Application"
+},
+{
+  "id": "cicd_cloud",
+  "title": "CI/CD Fundamentals",
+  "skills": ["CI/CD"],
+  "tags": ["cicd", "devops", "cloud"],
+  "level": "Advanced",
+  "duration_weeks": 2,
+  "prerequisites": ["Docker", "AWS"],
+  "project": "Deploy an Application Using CI/CD Pipeline"
+}
+  
+]

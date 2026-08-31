@@ -1,0 +1,65 @@
+{
+  "Machine Learning Engineer": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "Data Scientist": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning",
+    "SQL",
+    "Data Visualization"
+  ],
+  "Data Analyst": [
+    "Python",
+    "Pandas",
+    "SQL",
+    "Data Visualization"
+  ],
+  "AI Engineer": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "Frontend Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React"
+  ],
+  "Backend Developer": [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "MongoDB"
+  ],
+  "Full Stack Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB"
+  ],
+  "Cloud Engineer": [
+    "Linux",
+    "Computer Networks",
+    "Cloud Computing",
+    "AWS",
+    "EC2",
+    "S3",
+    "Docker",
+    "CI/CD"
+  ]
+
+}
