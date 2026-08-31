@@ -3,7 +3,7 @@ import { useState, useRef, useEffect } from "react";
 import { createRoot } from "react-dom/client";
 import "./styles.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "/api";
 
 const STATUS_META = {
   completed: { icon: "✓", label: "Completed", cls: "st-completed" },
